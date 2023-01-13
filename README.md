@@ -1,4 +1,4 @@
-<h1>🚧 Working on the bio 🚧<\h1>
+<h1>🚧 Working on the bio 🚧
 
 <!---
 cufapaez/cufapaez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
